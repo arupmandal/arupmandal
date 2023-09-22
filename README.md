@@ -27,7 +27,7 @@
 
 - 📫 How to reach me **arupmandal731@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/iamarupmandal/](https://www.linkedin.com/in/harikrushn-kanani/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/iamarupmandal/](https://www.linkedin.com/in/iamarupmandal/)
 
 - ⚡ Fun fact **I love to code**
 
