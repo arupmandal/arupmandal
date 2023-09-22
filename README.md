@@ -21,7 +21,7 @@
 
 - 🌱 I’m currently learning **Everything 🤣**
 
-- 👨‍💻 All of my projects are available at [https://github.com/harikanani/](https://github.com/arupmandal/)
+- 👨‍💻 All of my projects are available at [https://github.com/arupmandal/](https://github.com/arupmandal/)
 
 - 💬 Ask me about **Python,JavaScript,Node.Js**
 
@@ -130,10 +130,10 @@
 
 ## ✨GitHub Stats  : 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=harikanani&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=harikanani&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=arupmandal&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=arupmandal&theme=tokyonight" />
 </div>
 
 <br/>  
 
-![harikanani's github activity graph](https://activity-graph.herokuapp.com/graph?username=harikanani&theme=nord) 
+
